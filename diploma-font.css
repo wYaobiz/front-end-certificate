@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'diploma';
+  src: url('diploma-font/diploma-webfont.woff') format('truetype');
+}
+
+div {
+    font-family: 'diploma';
+}
