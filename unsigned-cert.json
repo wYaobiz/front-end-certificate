@@ -1,0 +1,52 @@
+{
+
+  "issuedOn": "2017-07-20T09:33:47.490752+00:00",
+
+  "id": "urn:uuid:3bc1a96a-3501-46ed-8f75-49612bbac257",
+
+  "recipient": {
+    "identity": "johnSmith@my.ccsu.edu",
+    "type": "email",
+    "hashed": false
+  },
+
+  "recipientProfile": {
+    "publicKey": "ecdsa-koblitz-pubkey:mtr98kany9G1XYNU74pRnfBQmaCg2FZLmc",
+    "walletAddress": "ethereum-address:0xa568cd050239dD6B5a791760Ed14700Ea18d3cED",
+    "name": "John Smith"
+  },
+  
+  "verification": {
+    "publicKey": "ecdsa-koblitz-pubkey:0x3e2fcdb2b84a3a2b8b301d80ee995b51260d2fd9",
+    "walletAddress": "ethereum-address:0xd79E8A0dc6680F9a7EFC36B2924eBaB2fe751EeD"
+  },
+
+  "badge": {
+    "issuer": {
+      "url": "https://www.ccsu.edu",
+      "name": "Central Connecticut State University",
+      "email": "contact@ccsu.edu",
+      "type": "Profile",
+      "location": "New Britain, Connecticut",
+      "id": "https://www.ccsu.edu/ecerts/master/issuer.json",
+      "image": "",
+      "revocationList": "https://www.ccsu.edu/ecerts/master/revocation-list.json"
+    },
+    "name": "Computer Science",
+    "type": "Master",
+    "criteria": {
+      "narrative": "In recognition of fulfillment of the prescribed course of study authorized by the Board of Regents for Higher Education, and upon the recommendation of the faculty, we hereby confer upon"
+    },
+    "image": "",
+    "id": "urn:uuid:82a4c9f2-3588-457b-80ea-da695571b8fc",
+    "description": "with all the honors, rights, and privileges appertaining thereunto. In Witness thereof, the undersigned have affixed and subscribed their names on this the sixteenth day of December, two thousand sixteen.",
+    "signatureLines": [
+      {
+        "jobTitle": "President",
+        "name": "Your signature",
+        "subTitle":"Board of Regents for Higher Education",
+        "image": ""
+      }
+    ]
+  }
+}
